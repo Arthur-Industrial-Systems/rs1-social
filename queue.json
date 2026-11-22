@@ -1,144 +1,238 @@
 {
  "account": "manufacturing_made_right",
- "approved": false,
+ "account_id": "17841477992251097",
+ "approved": true,
+ "approved_note": "Week 1 approved by owner on 2026-11-22 (music only, no AI voice).",
  "posts": [
   {
-   "post_at": "2026-11-23T07:00:00-05:00",
+   "post_at": "2026-11-23T07:07:00-05:00",
    "tip": 1,
    "title": "Calculate Cp in Excel",
    "video_url": "https://arthur-industrial-systems.github.io/rs1-social/videos/001.mp4",
    "cover_url": "https://arthur-industrial-systems.github.io/rs1-social/covers/001.jpg",
    "caption": "Calculate Cp in Excel | Excel tip #1\n\nCp tells you if your process could fit inside the spec. Here's how to get it in Excel.\n\nSave this for later. A new Excel quality tip every day.\n\n#Excel #ExcelTips #SPC #QualityEngineering #Manufacturing #SixSigma #Machinist #Cpk #ProcessCapability",
    "status": "queued",
-   "media_id": null
+   "media_id": null,
+   "type": "reel"
   },
   {
-   "post_at": "2026-11-23T12:00:00-05:00",
+   "post_at": "2026-11-23T12:07:00-05:00",
    "tip": 28,
    "title": "Draw an I chart with limit lines",
    "video_url": "https://arthur-industrial-systems.github.io/rs1-social/videos/028.mp4",
    "cover_url": "https://arthur-industrial-systems.github.io/rs1-social/covers/028.jpg",
    "caption": "Draw an I chart with limit lines | Excel tip #28\n\nHere's how to draw an individuals chart with real limit lines on it.\n\nSave this for later. A new Excel quality tip every day.\n\n#Excel #ExcelTips #SPC #QualityEngineering #Manufacturing #SixSigma #Machinist #ControlCharts #SPC",
    "status": "queued",
+   "media_id": null,
+   "type": "reel"
+  },
+  {
+   "post_at": "2026-11-23T18:07:00-05:00",
+   "type": "image",
+   "title": "meme1_in_control.jpg",
+   "image_url": "https://arthur-industrial-systems.github.io/rs1-social/memes/meme1_in_control.jpg",
+   "caption": "Every. Single. Time. \ud83d\ude05\n\nTag the coworker who says it's in control without looking at the chart.\n\n#ManufacturingMemes #EngineeringMemes #QualityEngineering #Manufacturing #Machinist #SPC #EngineeringHumor #ControlCharts",
+   "status": "queued",
    "media_id": null
   },
   {
-   "post_at": "2026-11-24T07:00:00-05:00",
+   "post_at": "2026-11-24T07:07:00-05:00",
    "tip": 4,
    "title": "Calculate Ppk in Excel",
    "video_url": "https://arthur-industrial-systems.github.io/rs1-social/videos/004.mp4",
    "cover_url": "https://arthur-industrial-systems.github.io/rs1-social/covers/004.jpg",
    "caption": "Calculate Ppk in Excel | Excel tip #4\n\nPpk is the number your customer usually asks for. Three formulas.\n\nSave this for later. A new Excel quality tip every day.\n\n#Excel #ExcelTips #SPC #QualityEngineering #Manufacturing #SixSigma #Machinist #Ppk #ProcessCapability",
    "status": "queued",
-   "media_id": null
+   "media_id": null,
+   "type": "reel"
   },
   {
-   "post_at": "2026-11-24T12:00:00-05:00",
+   "post_at": "2026-11-24T12:07:00-05:00",
    "tip": 5,
    "title": "Cpk vs Ppk: see the difference",
    "video_url": "https://arthur-industrial-systems.github.io/rs1-social/videos/005.mp4",
    "cover_url": "https://arthur-industrial-systems.github.io/rs1-social/covers/005.jpg",
    "caption": "Cpk vs Ppk: see the difference | Excel tip #5\n\nCpk and Ppk use the same formula with a different sigma. Watch what changes.\n\nSave this for later. A new Excel quality tip every day.\n\n#Excel #ExcelTips #SPC #QualityEngineering #Manufacturing #SixSigma #Machinist #Cpk #Ppk",
    "status": "queued",
+   "media_id": null,
+   "type": "reel"
+  },
+  {
+   "post_at": "2026-11-24T18:07:00-05:00",
+   "type": "image",
+   "title": "meme2_cpk.jpg",
+   "image_url": "https://arthur-industrial-systems.github.io/rs1-social/memes/meme2_cpk.jpg",
+   "caption": "Rounding up is not an option. Ask me how I know.\n\n#ManufacturingMemes #EngineeringMemes #QualityEngineering #Manufacturing #Machinist #SPC #EngineeringHumor #Cpk #ProcessCapability",
+   "status": "queued",
    "media_id": null
   },
   {
-   "post_at": "2026-11-25T07:00:00-05:00",
+   "post_at": "2026-11-25T07:07:00-05:00",
    "tip": 24,
    "title": "What Cpk 1.0, 1.33, 1.67 and 2.0 mean",
    "video_url": "https://arthur-industrial-systems.github.io/rs1-social/videos/024.mp4",
    "cover_url": "https://arthur-industrial-systems.github.io/rs1-social/covers/024.jpg",
    "caption": "What Cpk 1.0, 1.33, 1.67 and 2.0 mean | Excel tip #24\n\nA quick table of what common Cpk targets mean in defects.\n\nSave this for later. A new Excel quality tip every day.\n\n#Excel #ExcelTips #SPC #QualityEngineering #Manufacturing #SixSigma #Machinist #Cpk #ProcessCapability",
    "status": "queued",
-   "media_id": null
+   "media_id": null,
+   "type": "reel"
   },
   {
-   "post_at": "2026-11-25T12:00:00-05:00",
+   "post_at": "2026-11-25T12:07:00-05:00",
    "tip": 75,
    "title": "Turn bin counts into a histogram",
    "video_url": "https://arthur-industrial-systems.github.io/rs1-social/videos/075.mp4",
    "cover_url": "https://arthur-industrial-systems.github.io/rs1-social/covers/075.jpg",
    "caption": "Turn bin counts into a histogram | Excel tip #75\n\nOnce you have bin counts, the histogram is one chart away.\n\nSave this for later. A new Excel quality tip every day.\n\n#Excel #ExcelTips #SPC #QualityEngineering #Manufacturing #SixSigma #Machinist #Histogram #DataAnalysis",
    "status": "queued",
+   "media_id": null,
+   "type": "reel"
+  },
+  {
+   "post_at": "2026-11-25T18:07:00-05:00",
+   "type": "carousel",
+   "title": "cpk-formulas",
+   "image_urls": [
+    "https://arthur-industrial-systems.github.io/rs1-social/carousels/cpk-formulas/01.jpg",
+    "https://arthur-industrial-systems.github.io/rs1-social/carousels/cpk-formulas/02.jpg",
+    "https://arthur-industrial-systems.github.io/rs1-social/carousels/cpk-formulas/03.jpg",
+    "https://arthur-industrial-systems.github.io/rs1-social/carousels/cpk-formulas/04.jpg",
+    "https://arthur-industrial-systems.github.io/rs1-social/carousels/cpk-formulas/05.jpg",
+    "https://arthur-industrial-systems.github.io/rs1-social/carousels/cpk-formulas/06.jpg",
+    "https://arthur-industrial-systems.github.io/rs1-social/carousels/cpk-formulas/07.jpg"
+   ],
+   "caption": "5 Excel formulas every quality engineer should know, with real examples. \ud83d\udcca\n\nSave this for your next capability study.\n\n#Excel #ExcelTips #QualityEngineering #Cpk #SPC #Manufacturing #SixSigma #Machinist",
+   "status": "queued",
    "media_id": null
   },
   {
-   "post_at": "2026-11-26T07:00:00-05:00",
+   "post_at": "2026-11-26T07:07:00-05:00",
    "tip": 61,
    "title": "Find outliers with the 1.5 IQR rule",
    "video_url": "https://arthur-industrial-systems.github.io/rs1-social/videos/061.mp4",
    "cover_url": "https://arthur-industrial-systems.github.io/rs1-social/covers/061.jpg",
    "caption": "Find outliers with the 1.5 IQR rule | Excel tip #61\n\nThe box plot rule for outliers, in two formulas.\n\nSave this for later. A new Excel quality tip every day.\n\n#Excel #ExcelTips #SPC #QualityEngineering #Manufacturing #SixSigma #Machinist #Outliers #Statistics",
    "status": "queued",
-   "media_id": null
+   "media_id": null,
+   "type": "reel"
   },
   {
-   "post_at": "2026-11-26T12:00:00-05:00",
+   "post_at": "2026-11-26T12:07:00-05:00",
    "tip": 33,
    "title": "Draw an Xbar chart",
    "video_url": "https://arthur-industrial-systems.github.io/rs1-social/videos/033.mp4",
    "cover_url": "https://arthur-industrial-systems.github.io/rs1-social/covers/033.jpg",
    "caption": "Draw an Xbar chart | Excel tip #33\n\nHere's how to draw an Xbar chart with its control limits in Excel.\n\nSave this for later. A new Excel quality tip every day.\n\n#Excel #ExcelTips #SPC #QualityEngineering #Manufacturing #SixSigma #Machinist #ControlCharts #XbarChart",
    "status": "queued",
+   "media_id": null,
+   "type": "reel"
+  },
+  {
+   "post_at": "2026-11-26T18:07:00-05:00",
+   "type": "image",
+   "title": "meme3_think_vs_do.jpg",
+   "image_url": "https://arthur-industrial-systems.github.io/rs1-social/memes/meme3_think_vs_do.jpg",
+   "caption": "Final_v3_REAL_final.xlsx \ud83e\udee0\n\n#ManufacturingMemes #EngineeringMemes #QualityEngineering #Manufacturing #Machinist #SPC #EngineeringHumor #Excel #ExcelMemes",
+   "status": "queued",
    "media_id": null
   },
   {
-   "post_at": "2026-11-27T07:00:00-05:00",
+   "post_at": "2026-11-27T07:07:00-05:00",
    "tip": 13,
    "title": "Convert Cpk to PPM",
    "video_url": "https://arthur-industrial-systems.github.io/rs1-social/videos/013.mp4",
    "cover_url": "https://arthur-industrial-systems.github.io/rs1-social/covers/013.jpg",
    "caption": "Convert Cpk to PPM | Excel tip #13\n\nYour customer says Cpk 1.33. What does that mean in defects?\n\nSave this for later. A new Excel quality tip every day.\n\n#Excel #ExcelTips #SPC #QualityEngineering #Manufacturing #SixSigma #Machinist #Cpk #PPM",
    "status": "queued",
-   "media_id": null
+   "media_id": null,
+   "type": "reel"
   },
   {
-   "post_at": "2026-11-27T12:00:00-05:00",
+   "post_at": "2026-11-27T12:07:00-05:00",
    "tip": 41,
    "title": "Highlight out-of-control points",
    "video_url": "https://arthur-industrial-systems.github.io/rs1-social/videos/041.mp4",
    "cover_url": "https://arthur-industrial-systems.github.io/rs1-social/covers/041.jpg",
    "caption": "Highlight out-of-control points | Excel tip #41\n\nCount how many points break the limits, without scanning the chart.\n\nSave this for later. A new Excel quality tip every day.\n\n#Excel #ExcelTips #SPC #QualityEngineering #Manufacturing #SixSigma #Machinist #ControlCharts #SPC",
    "status": "queued",
+   "media_id": null,
+   "type": "reel"
+  },
+  {
+   "post_at": "2026-11-27T18:07:00-05:00",
+   "type": "image",
+   "title": "meme4_normal.jpg",
+   "image_url": "https://arthur-industrial-systems.github.io/rs1-social/memes/meme4_normal.jpg",
+   "caption": "Every stats class: assume normality.\nEvery real process: absolutely not.\n\n#ManufacturingMemes #EngineeringMemes #QualityEngineering #Manufacturing #Machinist #SPC #EngineeringHumor #Statistics #SixSigma",
+   "status": "queued",
    "media_id": null
   },
   {
-   "post_at": "2026-11-28T07:00:00-05:00",
+   "post_at": "2026-11-28T07:07:00-05:00",
    "tip": 57,
    "title": "STDEV.S or STDEV.P? Use the right one",
    "video_url": "https://arthur-industrial-systems.github.io/rs1-social/videos/057.mp4",
    "cover_url": "https://arthur-industrial-systems.github.io/rs1-social/covers/057.jpg",
    "caption": "STDEV.S or STDEV.P? Use the right one | Excel tip #57\n\nThere are two standard deviation functions. For samples, you want the S.\n\nSave this for later. A new Excel quality tip every day.\n\n#Excel #ExcelTips #SPC #QualityEngineering #Manufacturing #SixSigma #Machinist #Statistics #StandardDeviation",
    "status": "queued",
-   "media_id": null
+   "media_id": null,
+   "type": "reel"
   },
   {
-   "post_at": "2026-11-28T12:00:00-05:00",
+   "post_at": "2026-11-28T12:07:00-05:00",
    "tip": 173,
    "title": "Draw a Pareto chart",
    "video_url": "https://arthur-industrial-systems.github.io/rs1-social/videos/173.mp4",
    "cover_url": "https://arthur-industrial-systems.github.io/rs1-social/covers/173.jpg",
    "caption": "Draw a Pareto chart | Excel tip #173\n\nBars for the counts, a line for the running percent.\n\nSave this for later. A new Excel quality tip every day.\n\n#Excel #ExcelTips #SPC #QualityEngineering #Manufacturing #SixSigma #Machinist #Pareto #QualityControl",
    "status": "queued",
+   "media_id": null,
+   "type": "reel"
+  },
+  {
+   "post_at": "2026-11-28T18:07:00-05:00",
+   "type": "image",
+   "title": "meme5_friday.jpg",
+   "image_url": "https://arthur-industrial-systems.github.io/rs1-social/memes/meme5_friday.jpg",
+   "caption": "Tell me you've been here. \ud83d\ude2d\n\n#ManufacturingMemes #EngineeringMemes #QualityEngineering #Manufacturing #Machinist #SPC #EngineeringHumor #Excel #ExcelMemes",
+   "status": "queued",
    "media_id": null
   },
   {
-   "post_at": "2026-11-29T07:00:00-05:00",
+   "post_at": "2026-11-29T07:07:00-05:00",
    "tip": 133,
    "title": "Scatter plot with a trend line",
    "video_url": "https://arthur-industrial-systems.github.io/rs1-social/videos/133.mp4",
    "cover_url": "https://arthur-industrial-systems.github.io/rs1-social/covers/133.jpg",
    "caption": "Scatter plot with a trend line | Excel tip #133\n\nThe picture that goes with the numbers.\n\nSave this for later. A new Excel quality tip every day.\n\n#Excel #ExcelTips #SPC #QualityEngineering #Manufacturing #SixSigma #Machinist #Regression #DataAnalysis",
    "status": "queued",
-   "media_id": null
+   "media_id": null,
+   "type": "reel"
   },
   {
-   "post_at": "2026-11-29T12:00:00-05:00",
+   "post_at": "2026-11-29T12:07:00-05:00",
    "tip": 20,
    "title": "Pass or fail your Cpk automatically",
    "video_url": "https://arthur-industrial-systems.github.io/rs1-social/videos/020.mp4",
    "cover_url": "https://arthur-industrial-systems.github.io/rs1-social/covers/020.jpg",
    "caption": "Pass or fail your Cpk automatically | Excel tip #20\n\nLet Excel tell you if a process meets the 1.33 rule.\n\nSave this for later. A new Excel quality tip every day.\n\n#Excel #ExcelTips #SPC #QualityEngineering #Manufacturing #SixSigma #Machinist #Cpk #ProcessCapability",
+   "status": "queued",
+   "media_id": null,
+   "type": "reel"
+  },
+  {
+   "post_at": "2026-11-29T18:07:00-05:00",
+   "type": "carousel",
+   "title": "control-patterns",
+   "image_urls": [
+    "https://arthur-industrial-systems.github.io/rs1-social/carousels/control-patterns/01.jpg",
+    "https://arthur-industrial-systems.github.io/rs1-social/carousels/control-patterns/02.jpg",
+    "https://arthur-industrial-systems.github.io/rs1-social/carousels/control-patterns/03.jpg",
+    "https://arthur-industrial-systems.github.io/rs1-social/carousels/control-patterns/04.jpg",
+    "https://arthur-industrial-systems.github.io/rs1-social/carousels/control-patterns/05.jpg",
+    "https://arthur-industrial-systems.github.io/rs1-social/carousels/control-patterns/06.jpg"
+   ],
+   "caption": "A point inside the control limits isn't always fine. These 4 patterns mean something in your process changed. \ud83d\udcc8\n\nSave this and share it with your team.\n\n#SPC #ControlCharts #QualityEngineering #Manufacturing #SixSigma #QualityControl #Machinist",
    "status": "queued",
    "media_id": null
   }
