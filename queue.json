@@ -5,15 +5,27 @@
  "approved_note": "Week 1 approved by owner on 2026-11-22 (music only, no AI voice).",
  "posts": [
   {
-   "post_at": "2026-11-23T07:07:00-05:00",
+   "post_at": "2026-11-22T14:49:00-05:00",
    "tip": 1,
    "title": "Calculate Cp in Excel",
    "video_url": "https://arthur-industrial-systems.github.io/rs1-social/videos/001.mp4",
    "cover_url": "https://arthur-industrial-systems.github.io/rs1-social/covers/001.jpg",
    "caption": "Calculate Cp in Excel | Excel tip #1\n\nCp tells you if your process could fit inside the spec. Here's how to get it in Excel.\n\nSave this for later. A new Excel quality tip every day.\n\n#Excel #ExcelTips #SPC #QualityEngineering #Manufacturing #SixSigma #Machinist #Cpk #ProcessCapability",
+   "status": "posted",
+   "media_id": "18121669427008233",
+   "type": "reel",
+   "note": "posted early as a test"
+  },
+  {
+   "post_at": "2026-11-23T07:07:00-05:00",
+   "type": "reel",
+   "tip": 3,
+   "title": "Calculate Pp in Excel",
+   "video_url": "https://arthur-industrial-systems.github.io/rs1-social/videos/003.mp4",
+   "cover_url": "https://arthur-industrial-systems.github.io/rs1-social/covers/003.jpg",
+   "caption": "Calculate Pp in Excel | Excel tip #3\n\nPp is the long-term version of Cp. It uses the overall standard deviation.\n\nSave this for later. A new Excel quality tip every day.\n\n#Excel #ExcelTips #SPC #QualityEngineering #Manufacturing #SixSigma #Machinist #Ppk #ProcessCapability",
    "status": "queued",
-   "media_id": null,
-   "type": "reel"
+   "media_id": null
   },
   {
    "post_at": "2026-11-23T12:07:00-05:00",
