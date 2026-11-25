@@ -263,7 +263,7 @@
    "post_at": "2026-11-30T18:07:00-05:00",
    "type": "image",
    "title": "12 Excel functions every quality engineer needs",
-   "image_url": "https://arthur-industrial-systems.github.io/rs1-social/cheatsheets/001%20excel-functions-quality-engineers.jpg",
+   "image_url": "https://arthur-industrial-systems.github.io/rs1-social/cheatsheets/001-excel-functions-quality-engineers.jpg",
    "caption": "12 Excel functions that cover most of what a quality engineer does in a spreadsheet.\n\nSave this so you have it next time you need it.\n\nWhich one do you use the most?\n\n#Excel #ExcelTips #QualityEngineering #SPC #Manufacturing",
    "status": "queued",
    "media_id": null
@@ -283,7 +283,7 @@
    "post_at": "2026-12-01T18:07:00-05:00",
    "type": "image",
    "title": "15 Excel shortcuts that save hours",
-   "image_url": "https://arthur-industrial-systems.github.io/rs1-social/cheatsheets/003%20excel-shortcuts-save-hours.jpg",
+   "image_url": "https://arthur-industrial-systems.github.io/rs1-social/cheatsheets/003-excel-shortcuts-save-hours.jpg",
    "caption": "15 Excel shortcuts that save you hours every week. Learn 3 this week, 3 next week.\n\nSave this so you have it next time you need it.\n\nWhich one did you not know?\n\n#Excel #ExcelTips #QualityEngineering #SPC #Manufacturing",
    "status": "queued",
    "media_id": null
@@ -303,7 +303,7 @@
    "post_at": "2026-12-02T18:07:00-05:00",
    "type": "image",
    "title": "Control chart constants (X-bar and R)",
-   "image_url": "https://arthur-industrial-systems.github.io/rs1-social/cheatsheets/011%20xbar-r-control-limits-constants.jpg",
+   "image_url": "https://arthur-industrial-systems.github.io/rs1-social/cheatsheets/011-xbar-r-control-limits-constants.jpg",
    "caption": "The control chart constants table. Pick your subgroup size, multiply by R-bar, done.\n\nSave this so you have it next time you need it.\n\nWhat subgroup size do you use most?\n\n#SPC #ControlCharts #QualityEngineering #SixSigma #Manufacturing",
    "status": "queued",
    "media_id": null
@@ -323,7 +323,7 @@
    "post_at": "2026-12-03T18:07:00-05:00",
    "type": "image",
    "title": "Excel errors and what they mean",
-   "image_url": "https://arthur-industrial-systems.github.io/rs1-social/cheatsheets/013%20excel-errors-explained.jpg",
+   "image_url": "https://arthur-industrial-systems.github.io/rs1-social/cheatsheets/013-excel-errors-explained.jpg",
    "caption": "Every Excel error tells you exactly what went wrong. Here's how to read them.\n\nSave this so you have it next time you need it.\n\nWhich error do you see the most?\n\n#Excel #ExcelTips #QualityEngineering #SPC #Manufacturing",
    "status": "queued",
    "media_id": null
@@ -343,7 +343,7 @@
    "post_at": "2026-12-04T18:07:00-05:00",
    "type": "image",
    "title": "10 conditional formatting rules for quality data",
-   "image_url": "https://arthur-industrial-systems.github.io/rs1-social/cheatsheets/015%20conditional-formatting-quality-data.jpg",
+   "image_url": "https://arthur-industrial-systems.github.io/rs1-social/cheatsheets/015-conditional-formatting-quality-data.jpg",
    "caption": "Let Excel color the problems for you. 10 rules every inspection sheet should have.\n\nSave this so you have it next time you need it.\n\nDo you color-code your inspection sheets?\n\n#Excel #ExcelTips #QualityEngineering #SPC #Manufacturing",
    "status": "queued",
    "media_id": null
@@ -363,7 +363,7 @@
    "post_at": "2026-12-05T18:07:00-05:00",
    "type": "image",
    "title": "What your Cpk number means",
-   "image_url": "https://arthur-industrial-systems.github.io/rs1-social/cheatsheets/035%20excel-capability-what-cpk-means.jpg",
+   "image_url": "https://arthur-industrial-systems.github.io/rs1-social/cheatsheets/035-excel-capability-what-cpk-means.jpg",
    "caption": "Cpk 1.33 isn't a random number. Here's how many bad parts each Cpk level means.\n\nSave this so you have it next time you need it.\n\nWhat Cpk does your customer require?\n\n#SPC #Cpk #ProcessCapability #QualityEngineering #SixSigma",
    "status": "queued",
    "media_id": null
@@ -383,7 +383,7 @@
    "post_at": "2026-12-06T18:07:00-05:00",
    "type": "image",
    "title": "The 8 Nelson rules for control charts",
-   "image_url": "https://arthur-industrial-systems.github.io/rs1-social/cheatsheets/049%20nelson-rules.jpg",
+   "image_url": "https://arthur-industrial-systems.github.io/rs1-social/cheatsheets/049-nelson-rules.jpg",
    "caption": "A point inside the limits isn't always fine. The 8 Nelson rules catch shifts, trends and mixing.\n\nSave this so you have it next time you need it.\n\nWhich rules does your shop actually use?\n\n#SPC #QualityEngineering #SixSigma #Manufacturing #ContinuousImprovement",
    "status": "queued",
    "media_id": null
@@ -403,7 +403,7 @@
    "post_at": "2026-12-07T18:07:00-05:00",
    "type": "image",
    "title": "Which control chart should you use?",
-   "image_url": "https://arthur-industrial-systems.github.io/rs1-social/cheatsheets/051%20control-chart-types.jpg",
+   "image_url": "https://arthur-industrial-systems.github.io/rs1-social/cheatsheets/051-control-chart-types.jpg",
    "caption": "Picking the wrong control chart gives you the wrong limits. Here's the cheat sheet.\n\nSave this so you have it next time you need it.\n\nWhich chart do you use most?\n\n#SPC #QualityEngineering #SixSigma #Manufacturing #ContinuousImprovement",
    "status": "queued",
    "media_id": null
@@ -423,7 +423,7 @@
    "post_at": "2026-12-08T18:07:00-05:00",
    "type": "image",
    "title": "10 Excel mistakes that wreck your data",
-   "image_url": "https://arthur-industrial-systems.github.io/rs1-social/cheatsheets/030%20excel-mistakes-break-data.jpg",
+   "image_url": "https://arthur-industrial-systems.github.io/rs1-social/cheatsheets/030-excel-mistakes-break-data.jpg",
    "caption": "Most wrong numbers in quality reports come from one of these 10 mistakes.\n\nSave this so you have it next time you need it.\n\nWhich one has bitten you?\n\n#Excel #ExcelTips #QualityEngineering #SPC #Manufacturing",
    "status": "queued",
    "media_id": null
@@ -443,7 +443,7 @@
    "post_at": "2026-12-09T18:07:00-05:00",
    "type": "image",
    "title": "Tap drill chart (common sizes)",
-   "image_url": "https://arthur-industrial-systems.github.io/rs1-social/cheatsheets/085%20tap-drill-chart.jpg",
+   "image_url": "https://arthur-industrial-systems.github.io/rs1-social/cheatsheets/085-tap-drill-chart.jpg",
    "caption": "The tap drill chart: the most-used chart in any machine shop.\n\nSave this so you have it next time you need it.\n\nWhich tap do you break the most?\n\n#Machinist #Machining #CNC #Manufacturing #ShopMath",
    "status": "queued",
    "media_id": null
@@ -463,7 +463,7 @@
    "post_at": "2026-12-10T18:07:00-05:00",
    "type": "image",
    "title": "Fractions to decimals to mm",
-   "image_url": "https://arthur-industrial-systems.github.io/rs1-social/cheatsheets/077%20fraction-decimal-mm-chart.jpg",
+   "image_url": "https://arthur-industrial-systems.github.io/rs1-social/cheatsheets/077-fraction-decimal-mm-chart.jpg",
    "caption": "The fraction to decimal to mm chart every shop has taped to a wall. Save it on your phone.\n\nSave this so you have it next time you need it.\n\nInch or metric at your shop?\n\n#Machinist #Machining #CNC #Manufacturing #ShopMath",
    "status": "queued",
    "media_id": null
@@ -483,7 +483,7 @@
    "post_at": "2026-12-11T18:07:00-05:00",
    "type": "image",
    "title": "Speeds and feeds formulas",
-   "image_url": "https://arthur-industrial-systems.github.io/rs1-social/cheatsheets/084%20speeds-feeds-formulas.jpg",
+   "image_url": "https://arthur-industrial-systems.github.io/rs1-social/cheatsheets/084-speeds-feeds-formulas.jpg",
    "caption": "Speeds and feeds on one card, inch and metric.\n\nSave this so you have it next time you need it.\n\nSFM or chip load: which do you start from?\n\n#Machinist #Machining #CNC #Manufacturing #ShopMath",
    "status": "queued",
    "media_id": null
@@ -503,7 +503,7 @@
    "post_at": "2026-12-12T18:07:00-05:00",
    "type": "image",
    "title": "10 statistics mistakes in quality reports",
-   "image_url": "https://arthur-industrial-systems.github.io/rs1-social/cheatsheets/100%20statistics-mistakes-quality-reports.jpg",
+   "image_url": "https://arthur-industrial-systems.github.io/rs1-social/cheatsheets/100-statistics-mistakes-quality-reports.jpg",
    "caption": "Most wrong Cpk numbers come from one of these 10 mistakes.\n\nSave this so you have it next time you need it.\n\nWhich one have you seen in a real report?\n\n#Statistics #SixSigma #QualityEngineering #DataAnalysis #STEM",
    "status": "queued",
    "media_id": null
@@ -523,7 +523,7 @@
    "post_at": "2026-12-13T18:07:00-05:00",
    "type": "image",
    "title": "The 7 basic quality tools",
-   "image_url": "https://arthur-industrial-systems.github.io/rs1-social/cheatsheets/052%20seven-basic-quality-tools.jpg",
+   "image_url": "https://arthur-industrial-systems.github.io/rs1-social/cheatsheets/052-seven-basic-quality-tools.jpg",
    "caption": "Fancy statistics are great, but these 7 simple tools solve most quality problems.\n\nSave this so you have it next time you need it.\n\nWhich one do you use the most?\n\n#SPC #QualityEngineering #SixSigma #Manufacturing #ContinuousImprovement",
    "status": "queued",
    "media_id": null
