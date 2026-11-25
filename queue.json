@@ -2,7 +2,7 @@
  "account": "manufacturing_made_right",
  "account_id": "17841477992251097",
  "approved": true,
- "approved_note": "Week 1 approved by owner on 2026-11-22 (music only, no AI voice).",
+ "approved_note": "Week 1 approved 2026-11-22. Nov 30 - Dec 13 (1 Excel tip reel at 12:07 PM + 1 cheat sheet at 6:07 PM daily) added at the owner's request on 2026-11-25.",
  "posts": [
   {
    "post_at": "2026-11-22T14:49:00-05:00",
@@ -245,6 +245,286 @@
     "https://arthur-industrial-systems.github.io/rs1-social/carousels/control-patterns/06.jpg"
    ],
    "caption": "A point inside the control limits isn't always fine. These 4 patterns mean something in your process changed. 📈\n\nSave this and share it with your team.\n\n#SPC #ControlCharts #QualityEngineering #Manufacturing #SixSigma #QualityControl #Machinist",
+   "status": "queued",
+   "media_id": null
+  },
+  {
+   "post_at": "2026-11-30T12:07:00-05:00",
+   "type": "reel",
+   "tip": 2,
+   "title": "Calculate Cpk the right way in Excel",
+   "video_url": "https://arthur-industrial-systems.github.io/rs1-social/videos/002.mp4",
+   "cover_url": "https://arthur-industrial-systems.github.io/rs1-social/covers/002.jpg",
+   "caption": "Calculate Cpk the right way in Excel | Excel Tips\n\nMost Cpk spreadsheets use the wrong sigma. Here's the right way.\n\nSave this for later. A new Excel quality tip every day.\n\n#Excel #ExcelTips #SPC #QualityEngineering #Manufacturing #SixSigma #Machinist #Cpk #ProcessCapability",
+   "status": "queued",
+   "media_id": null
+  },
+  {
+   "post_at": "2026-11-30T18:07:00-05:00",
+   "type": "image",
+   "title": "12 Excel functions every quality engineer needs",
+   "image_url": "https://arthur-industrial-systems.github.io/rs1-social/cheatsheets/001%20excel-functions-quality-engineers.jpg",
+   "caption": "12 Excel functions that cover most of what a quality engineer does in a spreadsheet.\n\nSave this so you have it next time you need it.\n\nWhich one do you use the most?\n\n#Excel #ExcelTips #QualityEngineering #SPC #Manufacturing",
+   "status": "queued",
+   "media_id": null
+  },
+  {
+   "post_at": "2026-12-01T12:07:00-05:00",
+   "type": "reel",
+   "tip": 26,
+   "title": "I chart control limits in Excel",
+   "video_url": "https://arthur-industrial-systems.github.io/rs1-social/videos/026.mp4",
+   "cover_url": "https://arthur-industrial-systems.github.io/rs1-social/covers/026.jpg",
+   "caption": "I chart control limits in Excel | Excel Tips\n\nIndividuals chart limits come from the moving range, not the standard deviation.\n\nSave this for later. A new Excel quality tip every day.\n\n#Excel #ExcelTips #SPC #QualityEngineering #Manufacturing #SixSigma #Machinist #ControlCharts #StatisticalProcessControl",
+   "status": "queued",
+   "media_id": null
+  },
+  {
+   "post_at": "2026-12-01T18:07:00-05:00",
+   "type": "image",
+   "title": "15 Excel shortcuts that save hours",
+   "image_url": "https://arthur-industrial-systems.github.io/rs1-social/cheatsheets/003%20excel-shortcuts-save-hours.jpg",
+   "caption": "15 Excel shortcuts that save you hours every week. Learn 3 this week, 3 next week.\n\nSave this so you have it next time you need it.\n\nWhich one did you not know?\n\n#Excel #ExcelTips #QualityEngineering #SPC #Manufacturing",
+   "status": "queued",
+   "media_id": null
+  },
+  {
+   "post_at": "2026-12-02T12:07:00-05:00",
+   "type": "reel",
+   "tip": 190,
+   "title": "Pass or fail every part",
+   "video_url": "https://arthur-industrial-systems.github.io/rs1-social/videos/190.mp4",
+   "cover_url": "https://arthur-industrial-systems.github.io/rs1-social/covers/190.jpg",
+   "caption": "Pass or fail every part | Excel Tips\n\nOne formula, filled down, judges every part against the spec.\n\nSave this for later. A new Excel quality tip every day.\n\n#Excel #ExcelTips #SPC #QualityEngineering #Manufacturing #SixSigma #Machinist #ExcelFormulas #ExcelHacks",
+   "status": "queued",
+   "media_id": null
+  },
+  {
+   "post_at": "2026-12-02T18:07:00-05:00",
+   "type": "image",
+   "title": "Control chart constants (X-bar and R)",
+   "image_url": "https://arthur-industrial-systems.github.io/rs1-social/cheatsheets/011%20xbar-r-control-limits-constants.jpg",
+   "caption": "The control chart constants table. Pick your subgroup size, multiply by R-bar, done.\n\nSave this so you have it next time you need it.\n\nWhat subgroup size do you use most?\n\n#SPC #ControlCharts #QualityEngineering #SixSigma #Manufacturing",
+   "status": "queued",
+   "media_id": null
+  },
+  {
+   "post_at": "2026-12-03T12:07:00-05:00",
+   "type": "reel",
+   "tip": 56,
+   "title": "Average vs median: when they disagree",
+   "video_url": "https://arthur-industrial-systems.github.io/rs1-social/videos/056.mp4",
+   "cover_url": "https://arthur-industrial-systems.github.io/rs1-social/covers/056.jpg",
+   "caption": "Average vs median: when they disagree | Excel Tips\n\nIf the average and the median don't match, your data is lopsided.\n\nSave this for later. A new Excel quality tip every day.\n\n#Excel #ExcelTips #SPC #QualityEngineering #Manufacturing #SixSigma #Machinist #Statistics #DataAnalysis",
+   "status": "queued",
+   "media_id": null
+  },
+  {
+   "post_at": "2026-12-03T18:07:00-05:00",
+   "type": "image",
+   "title": "Excel errors and what they mean",
+   "image_url": "https://arthur-industrial-systems.github.io/rs1-social/cheatsheets/013%20excel-errors-explained.jpg",
+   "caption": "Every Excel error tells you exactly what went wrong. Here's how to read them.\n\nSave this so you have it next time you need it.\n\nWhich error do you see the most?\n\n#Excel #ExcelTips #QualityEngineering #SPC #Manufacturing",
+   "status": "queued",
+   "media_id": null
+  },
+  {
+   "post_at": "2026-12-04T12:07:00-05:00",
+   "type": "reel",
+   "tip": 139,
+   "title": "Gage R&R step 1: ranges per part",
+   "video_url": "https://arthur-industrial-systems.github.io/rs1-social/videos/139.mp4",
+   "cover_url": "https://arthur-industrial-systems.github.io/rs1-social/covers/139.jpg",
+   "caption": "Gage R&R step 1: ranges per part | Excel Tips\n\nGage R&R in Excel starts with a range for each operator on each part.\n\nSave this for later. A new Excel quality tip every day.\n\n#Excel #ExcelTips #SPC #QualityEngineering #Manufacturing #SixSigma #Machinist #GageRR #MSA",
+   "status": "queued",
+   "media_id": null
+  },
+  {
+   "post_at": "2026-12-04T18:07:00-05:00",
+   "type": "image",
+   "title": "10 conditional formatting rules for quality data",
+   "image_url": "https://arthur-industrial-systems.github.io/rs1-social/cheatsheets/015%20conditional-formatting-quality-data.jpg",
+   "caption": "Let Excel color the problems for you. 10 rules every inspection sheet should have.\n\nSave this so you have it next time you need it.\n\nDo you color-code your inspection sheets?\n\n#Excel #ExcelTips #QualityEngineering #SPC #Manufacturing",
+   "status": "queued",
+   "media_id": null
+  },
+  {
+   "post_at": "2026-12-05T12:07:00-05:00",
+   "type": "reel",
+   "tip": 27,
+   "title": "MR chart upper limit in Excel",
+   "video_url": "https://arthur-industrial-systems.github.io/rs1-social/videos/027.mp4",
+   "cover_url": "https://arthur-industrial-systems.github.io/rs1-social/covers/027.jpg",
+   "caption": "MR chart upper limit in Excel | Excel Tips\n\nThe moving range chart has one limit worth calculating.\n\nSave this for later. A new Excel quality tip every day.\n\n#Excel #ExcelTips #SPC #QualityEngineering #Manufacturing #SixSigma #Machinist #ControlCharts #StatisticalProcessControl",
+   "status": "queued",
+   "media_id": null
+  },
+  {
+   "post_at": "2026-12-05T18:07:00-05:00",
+   "type": "image",
+   "title": "What your Cpk number means",
+   "image_url": "https://arthur-industrial-systems.github.io/rs1-social/cheatsheets/035%20excel-capability-what-cpk-means.jpg",
+   "caption": "Cpk 1.33 isn't a random number. Here's how many bad parts each Cpk level means.\n\nSave this so you have it next time you need it.\n\nWhat Cpk does your customer require?\n\n#SPC #Cpk #ProcessCapability #QualityEngineering #SixSigma",
+   "status": "queued",
+   "media_id": null
+  },
+  {
+   "post_at": "2026-12-06T12:07:00-05:00",
+   "type": "reel",
+   "tip": 6,
+   "title": "CPU and CPL in Excel",
+   "video_url": "https://arthur-industrial-systems.github.io/rs1-social/videos/006.mp4",
+   "cover_url": "https://arthur-industrial-systems.github.io/rs1-social/covers/006.jpg",
+   "caption": "CPU and CPL in Excel | Excel Tips\n\nCpk is just the smaller of two numbers. Here they are separately.\n\nSave this for later. A new Excel quality tip every day.\n\n#Excel #ExcelTips #SPC #QualityEngineering #Manufacturing #SixSigma #Machinist #Cpk #ProcessCapability",
+   "status": "queued",
+   "media_id": null
+  },
+  {
+   "post_at": "2026-12-06T18:07:00-05:00",
+   "type": "image",
+   "title": "The 8 Nelson rules for control charts",
+   "image_url": "https://arthur-industrial-systems.github.io/rs1-social/cheatsheets/049%20nelson-rules.jpg",
+   "caption": "A point inside the limits isn't always fine. The 8 Nelson rules catch shifts, trends and mixing.\n\nSave this so you have it next time you need it.\n\nWhich rules does your shop actually use?\n\n#SPC #QualityEngineering #SixSigma #Manufacturing #ContinuousImprovement",
+   "status": "queued",
+   "media_id": null
+  },
+  {
+   "post_at": "2026-12-07T12:07:00-05:00",
+   "type": "reel",
+   "tip": 165,
+   "title": "First pass yield",
+   "video_url": "https://arthur-industrial-systems.github.io/rs1-social/videos/165.mp4",
+   "cover_url": "https://arthur-industrial-systems.github.io/rs1-social/covers/165.jpg",
+   "caption": "First pass yield | Excel Tips\n\nFirst pass yield ignores rework. It's the honest yield number.\n\nSave this for later. A new Excel quality tip every day.\n\n#Excel #ExcelTips #SPC #QualityEngineering #Manufacturing #SixSigma #Machinist #OEE #LeanManufacturing",
+   "status": "queued",
+   "media_id": null
+  },
+  {
+   "post_at": "2026-12-07T18:07:00-05:00",
+   "type": "image",
+   "title": "Which control chart should you use?",
+   "image_url": "https://arthur-industrial-systems.github.io/rs1-social/cheatsheets/051%20control-chart-types.jpg",
+   "caption": "Picking the wrong control chart gives you the wrong limits. Here's the cheat sheet.\n\nSave this so you have it next time you need it.\n\nWhich chart do you use most?\n\n#SPC #QualityEngineering #SixSigma #Manufacturing #ContinuousImprovement",
+   "status": "queued",
+   "media_id": null
+  },
+  {
+   "post_at": "2026-12-08T12:07:00-05:00",
+   "type": "reel",
+   "tip": 82,
+   "title": "Chance a part is below a value",
+   "video_url": "https://arthur-industrial-systems.github.io/rs1-social/videos/082.mp4",
+   "cover_url": "https://arthur-industrial-systems.github.io/rs1-social/covers/082.jpg",
+   "caption": "Chance a part is below a value | Excel Tips\n\nIf your process is normal, what's the chance a part comes in under 9.95?\n\nSave this for later. A new Excel quality tip every day.\n\n#Excel #ExcelTips #SPC #QualityEngineering #Manufacturing #SixSigma #Machinist #Statistics #NormalDistribution",
+   "status": "queued",
+   "media_id": null
+  },
+  {
+   "post_at": "2026-12-08T18:07:00-05:00",
+   "type": "image",
+   "title": "10 Excel mistakes that wreck your data",
+   "image_url": "https://arthur-industrial-systems.github.io/rs1-social/cheatsheets/030%20excel-mistakes-break-data.jpg",
+   "caption": "Most wrong numbers in quality reports come from one of these 10 mistakes.\n\nSave this so you have it next time you need it.\n\nWhich one has bitten you?\n\n#Excel #ExcelTips #QualityEngineering #SPC #Manufacturing",
+   "status": "queued",
+   "media_id": null
+  },
+  {
+   "post_at": "2026-12-09T12:07:00-05:00",
+   "type": "reel",
+   "tip": 102,
+   "title": "Two-sample t-test in one formula",
+   "video_url": "https://arthur-industrial-systems.github.io/rs1-social/videos/102.mp4",
+   "cover_url": "https://arthur-industrial-systems.github.io/rs1-social/covers/102.jpg",
+   "caption": "Two-sample t-test in one formula | Excel Tips\n\nIs Line B really different from Line A? T.TEST gives you the p-value.\n\nSave this for later. A new Excel quality tip every day.\n\n#Excel #ExcelTips #SPC #QualityEngineering #Manufacturing #SixSigma #Machinist #HypothesisTesting #Statistics",
+   "status": "queued",
+   "media_id": null
+  },
+  {
+   "post_at": "2026-12-09T18:07:00-05:00",
+   "type": "image",
+   "title": "Tap drill chart (common sizes)",
+   "image_url": "https://arthur-industrial-systems.github.io/rs1-social/cheatsheets/085%20tap-drill-chart.jpg",
+   "caption": "The tap drill chart: the most-used chart in any machine shop.\n\nSave this so you have it next time you need it.\n\nWhich tap do you break the most?\n\n#Machinist #Machining #CNC #Manufacturing #ShopMath",
+   "status": "queued",
+   "media_id": null
+  },
+  {
+   "post_at": "2026-12-10T12:07:00-05:00",
+   "type": "reel",
+   "tip": 191,
+   "title": "Why the dollar signs matter",
+   "video_url": "https://arthur-industrial-systems.github.io/rs1-social/videos/191.mp4",
+   "cover_url": "https://arthur-industrial-systems.github.io/rs1-social/covers/191.jpg",
+   "caption": "Why the dollar signs matter | Excel Tips\n\nFill a formula down and it breaks. Here's why, and the fix.\n\nSave this for later. A new Excel quality tip every day.\n\n#Excel #ExcelTips #SPC #QualityEngineering #Manufacturing #SixSigma #Machinist #ExcelFormulas #ExcelHacks",
+   "status": "queued",
+   "media_id": null
+  },
+  {
+   "post_at": "2026-12-10T18:07:00-05:00",
+   "type": "image",
+   "title": "Fractions to decimals to mm",
+   "image_url": "https://arthur-industrial-systems.github.io/rs1-social/cheatsheets/077%20fraction-decimal-mm-chart.jpg",
+   "caption": "The fraction to decimal to mm chart every shop has taped to a wall. Save it on your phone.\n\nSave this so you have it next time you need it.\n\nInch or metric at your shop?\n\n#Machinist #Machining #CNC #Manufacturing #ShopMath",
+   "status": "queued",
+   "media_id": null
+  },
+  {
+   "post_at": "2026-12-11T12:07:00-05:00",
+   "type": "reel",
+   "tip": 181,
+   "title": "Chance a lot passes inspection",
+   "video_url": "https://arthur-industrial-systems.github.io/rs1-social/videos/181.mp4",
+   "cover_url": "https://arthur-industrial-systems.github.io/rs1-social/covers/181.jpg",
+   "caption": "Chance a lot passes inspection | Excel Tips\n\nYour plan is n 80, accept on 2. What are the odds a 2 percent lot gets through?\n\nSave this for later. A new Excel quality tip every day.\n\n#Excel #ExcelTips #SPC #QualityEngineering #Manufacturing #SixSigma #Machinist #AQL #Inspection",
+   "status": "queued",
+   "media_id": null
+  },
+  {
+   "post_at": "2026-12-11T18:07:00-05:00",
+   "type": "image",
+   "title": "Speeds and feeds formulas",
+   "image_url": "https://arthur-industrial-systems.github.io/rs1-social/cheatsheets/084%20speeds-feeds-formulas.jpg",
+   "caption": "Speeds and feeds on one card, inch and metric.\n\nSave this so you have it next time you need it.\n\nSFM or chip load: which do you start from?\n\n#Machinist #Machining #CNC #Manufacturing #ShopMath",
+   "status": "queued",
+   "media_id": null
+  },
+  {
+   "post_at": "2026-12-12T12:07:00-05:00",
+   "type": "reel",
+   "tip": 125,
+   "title": "Correlation in one formula",
+   "video_url": "https://arthur-industrial-systems.github.io/rs1-social/videos/125.mp4",
+   "cover_url": "https://arthur-industrial-systems.github.io/rs1-social/covers/125.jpg",
+   "caption": "Correlation in one formula | Excel Tips\n\nDoes hardness really track temperature? CORREL gives you r.\n\nSave this for later. A new Excel quality tip every day.\n\n#Excel #ExcelTips #SPC #QualityEngineering #Manufacturing #SixSigma #Machinist #Regression #DataAnalysis",
+   "status": "queued",
+   "media_id": null
+  },
+  {
+   "post_at": "2026-12-12T18:07:00-05:00",
+   "type": "image",
+   "title": "10 statistics mistakes in quality reports",
+   "image_url": "https://arthur-industrial-systems.github.io/rs1-social/cheatsheets/100%20statistics-mistakes-quality-reports.jpg",
+   "caption": "Most wrong Cpk numbers come from one of these 10 mistakes.\n\nSave this so you have it next time you need it.\n\nWhich one have you seen in a real report?\n\n#Statistics #SixSigma #QualityEngineering #DataAnalysis #STEM",
+   "status": "queued",
+   "media_id": null
+  },
+  {
+   "post_at": "2026-12-13T12:07:00-05:00",
+   "type": "reel",
+   "tip": 151,
+   "title": "MTTF from failure times",
+   "video_url": "https://arthur-industrial-systems.github.io/rs1-social/videos/151.mp4",
+   "cover_url": "https://arthur-industrial-systems.github.io/rs1-social/covers/151.jpg",
+   "caption": "MTTF from failure times | Excel Tips\n\nMean time to failure is just the average of the failure times, if every unit failed.\n\nSave this for later. A new Excel quality tip every day.\n\n#Excel #ExcelTips #SPC #QualityEngineering #Manufacturing #SixSigma #Machinist #Reliability #MTBF",
+   "status": "queued",
+   "media_id": null
+  },
+  {
+   "post_at": "2026-12-13T18:07:00-05:00",
+   "type": "image",
+   "title": "The 7 basic quality tools",
+   "image_url": "https://arthur-industrial-systems.github.io/rs1-social/cheatsheets/052%20seven-basic-quality-tools.jpg",
+   "caption": "Fancy statistics are great, but these 7 simple tools solve most quality problems.\n\nSave this so you have it next time you need it.\n\nWhich one do you use the most?\n\n#SPC #QualityEngineering #SixSigma #Manufacturing #ContinuousImprovement",
    "status": "queued",
    "media_id": null
   }

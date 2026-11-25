@@ -1,0 +1,562 @@
+[
+ {
+  "tip": 2,
+  "title": "Calculate Cpk the right way in Excel | Excel Tips",
+  "description": "Most Cpk spreadsheets use the wrong sigma. Here's the right way.\n\nStep by step, the way you'd do it in Excel. A new Excel tip for quality engineers every day.\n\nWant this done in one click? RS-1 is SPC software from Arthur Industrial Systems with a free 14-day trial: https://arthur-industrial-systems.dev\n\n#Excel #ExcelTips #SPC #QualityEngineering #Manufacturing",
+  "tags": [
+   "Excel",
+   "Excel tips",
+   "SPC",
+   "Quality Engineering",
+   "Manufacturing",
+   "Six Sigma",
+   "Machinist",
+   "Cpk",
+   "Process Capability"
+  ],
+  "video_url": "https://arthur-industrial-systems.github.io/rs1-social/videos/002.mp4",
+  "publish_at": "2026-12-01T14:00:00-05:00",
+  "video_id": null,
+  "status": "planned"
+ },
+ {
+  "tip": 26,
+  "title": "I chart control limits in Excel | Excel Tips",
+  "description": "Individuals chart limits come from the moving range, not the standard deviation.\n\nStep by step, the way you'd do it in Excel. A new Excel tip for quality engineers every day.\n\nWant this done in one click? RS-1 is SPC software from Arthur Industrial Systems with a free 14-day trial: https://arthur-industrial-systems.dev\n\n#Excel #ExcelTips #SPC #QualityEngineering #Manufacturing",
+  "tags": [
+   "Excel",
+   "Excel tips",
+   "SPC",
+   "Quality Engineering",
+   "Manufacturing",
+   "Six Sigma",
+   "Machinist",
+   "Control Charts",
+   "Statistical Process Control"
+  ],
+  "video_url": "https://arthur-industrial-systems.github.io/rs1-social/videos/026.mp4",
+  "publish_at": "2026-12-01T19:00:00-05:00",
+  "video_id": null,
+  "status": "planned"
+ },
+ {
+  "tip": 190,
+  "title": "Pass or fail every part | Excel Tips",
+  "description": "One formula, filled down, judges every part against the spec.\n\nStep by step, the way you'd do it in Excel. A new Excel tip for quality engineers every day.\n\nWant this done in one click? RS-1 is SPC software from Arthur Industrial Systems with a free 14-day trial: https://arthur-industrial-systems.dev\n\n#Excel #ExcelTips #SPC #QualityEngineering #Manufacturing",
+  "tags": [
+   "Excel",
+   "Excel tips",
+   "SPC",
+   "Quality Engineering",
+   "Manufacturing",
+   "Six Sigma",
+   "Machinist",
+   "Excel Formulas",
+   "Excel Hacks"
+  ],
+  "video_url": "https://arthur-industrial-systems.github.io/rs1-social/videos/190.mp4",
+  "publish_at": "2026-12-02T14:00:00-05:00",
+  "video_id": null,
+  "status": "planned"
+ },
+ {
+  "tip": 56,
+  "title": "Average vs median: when they disagree | Excel Tips",
+  "description": "If the average and the median don't match, your data is lopsided.\n\nStep by step, the way you'd do it in Excel. A new Excel tip for quality engineers every day.\n\nWant this done in one click? RS-1 is SPC software from Arthur Industrial Systems with a free 14-day trial: https://arthur-industrial-systems.dev\n\n#Excel #ExcelTips #SPC #QualityEngineering #Manufacturing",
+  "tags": [
+   "Excel",
+   "Excel tips",
+   "SPC",
+   "Quality Engineering",
+   "Manufacturing",
+   "Six Sigma",
+   "Machinist",
+   "Statistics",
+   "Data Analysis"
+  ],
+  "video_url": "https://arthur-industrial-systems.github.io/rs1-social/videos/056.mp4",
+  "publish_at": "2026-12-02T19:00:00-05:00",
+  "video_id": null,
+  "status": "planned"
+ },
+ {
+  "tip": 139,
+  "title": "Gage R&R step 1: ranges per part | Excel Tips",
+  "description": "Gage R&R in Excel starts with a range for each operator on each part.\n\nStep by step, the way you'd do it in Excel. A new Excel tip for quality engineers every day.\n\nWant this done in one click? RS-1 is SPC software from Arthur Industrial Systems with a free 14-day trial: https://arthur-industrial-systems.dev\n\n#Excel #ExcelTips #SPC #QualityEngineering #Manufacturing",
+  "tags": [
+   "Excel",
+   "Excel tips",
+   "SPC",
+   "Quality Engineering",
+   "Manufacturing",
+   "Six Sigma",
+   "Machinist",
+   "Gage R&R",
+   "MSA"
+  ],
+  "video_url": "https://arthur-industrial-systems.github.io/rs1-social/videos/139.mp4",
+  "publish_at": "2026-12-03T14:00:00-05:00",
+  "video_id": null,
+  "status": "planned"
+ },
+ {
+  "tip": 27,
+  "title": "MR chart upper limit in Excel | Excel Tips",
+  "description": "The moving range chart has one limit worth calculating.\n\nStep by step, the way you'd do it in Excel. A new Excel tip for quality engineers every day.\n\nWant this done in one click? RS-1 is SPC software from Arthur Industrial Systems with a free 14-day trial: https://arthur-industrial-systems.dev\n\n#Excel #ExcelTips #SPC #QualityEngineering #Manufacturing",
+  "tags": [
+   "Excel",
+   "Excel tips",
+   "SPC",
+   "Quality Engineering",
+   "Manufacturing",
+   "Six Sigma",
+   "Machinist",
+   "Control Charts",
+   "Statistical Process Control"
+  ],
+  "video_url": "https://arthur-industrial-systems.github.io/rs1-social/videos/027.mp4",
+  "publish_at": "2026-12-03T19:00:00-05:00",
+  "video_id": null,
+  "status": "planned"
+ },
+ {
+  "tip": 6,
+  "title": "CPU and CPL in Excel | Excel Tips",
+  "description": "Cpk is just the smaller of two numbers. Here they are separately.\n\nStep by step, the way you'd do it in Excel. A new Excel tip for quality engineers every day.\n\nWant this done in one click? RS-1 is SPC software from Arthur Industrial Systems with a free 14-day trial: https://arthur-industrial-systems.dev\n\n#Excel #ExcelTips #SPC #QualityEngineering #Manufacturing",
+  "tags": [
+   "Excel",
+   "Excel tips",
+   "SPC",
+   "Quality Engineering",
+   "Manufacturing",
+   "Six Sigma",
+   "Machinist",
+   "Cpk",
+   "Process Capability"
+  ],
+  "video_url": "https://arthur-industrial-systems.github.io/rs1-social/videos/006.mp4",
+  "publish_at": "2026-12-04T14:00:00-05:00",
+  "video_id": null,
+  "status": "planned"
+ },
+ {
+  "tip": 165,
+  "title": "First pass yield | Excel Tips",
+  "description": "First pass yield ignores rework. It's the honest yield number.\n\nStep by step, the way you'd do it in Excel. A new Excel tip for quality engineers every day.\n\nWant this done in one click? RS-1 is SPC software from Arthur Industrial Systems with a free 14-day trial: https://arthur-industrial-systems.dev\n\n#Excel #ExcelTips #SPC #QualityEngineering #Manufacturing",
+  "tags": [
+   "Excel",
+   "Excel tips",
+   "SPC",
+   "Quality Engineering",
+   "Manufacturing",
+   "Six Sigma",
+   "Machinist",
+   "Yield",
+   "Lean Manufacturing"
+  ],
+  "video_url": "https://arthur-industrial-systems.github.io/rs1-social/videos/165.mp4",
+  "publish_at": "2026-12-04T19:00:00-05:00",
+  "video_id": null,
+  "status": "planned"
+ },
+ {
+  "tip": 82,
+  "title": "Chance a part is below a value | Excel Tips",
+  "description": "If your process is normal, what's the chance a part comes in under 9.95?\n\nStep by step, the way you'd do it in Excel. A new Excel tip for quality engineers every day.\n\nWant this done in one click? RS-1 is SPC software from Arthur Industrial Systems with a free 14-day trial: https://arthur-industrial-systems.dev\n\n#Excel #ExcelTips #SPC #QualityEngineering #Manufacturing",
+  "tags": [
+   "Excel",
+   "Excel tips",
+   "SPC",
+   "Quality Engineering",
+   "Manufacturing",
+   "Six Sigma",
+   "Machinist",
+   "Statistics",
+   "Normal Distribution"
+  ],
+  "video_url": "https://arthur-industrial-systems.github.io/rs1-social/videos/082.mp4",
+  "publish_at": "2026-12-05T14:00:00-05:00",
+  "video_id": null,
+  "status": "planned"
+ },
+ {
+  "tip": 102,
+  "title": "Two-sample t-test in one formula | Excel Tips",
+  "description": "Is Line B really different from Line A? T.TEST gives you the p-value.\n\nStep by step, the way you'd do it in Excel. A new Excel tip for quality engineers every day.\n\nWant this done in one click? RS-1 is SPC software from Arthur Industrial Systems with a free 14-day trial: https://arthur-industrial-systems.dev\n\n#Excel #ExcelTips #SPC #QualityEngineering #Manufacturing",
+  "tags": [
+   "Excel",
+   "Excel tips",
+   "SPC",
+   "Quality Engineering",
+   "Manufacturing",
+   "Six Sigma",
+   "Machinist",
+   "Hypothesis Testing",
+   "T-test"
+  ],
+  "video_url": "https://arthur-industrial-systems.github.io/rs1-social/videos/102.mp4",
+  "publish_at": "2026-12-05T19:00:00-05:00",
+  "video_id": null,
+  "status": "planned"
+ },
+ {
+  "tip": 191,
+  "title": "Why the dollar signs matter | Excel Tips",
+  "description": "Fill a formula down and it breaks. Here's why, and the fix.\n\nStep by step, the way you'd do it in Excel. A new Excel tip for quality engineers every day.\n\nWant this done in one click? RS-1 is SPC software from Arthur Industrial Systems with a free 14-day trial: https://arthur-industrial-systems.dev\n\n#Excel #ExcelTips #SPC #QualityEngineering #Manufacturing",
+  "tags": [
+   "Excel",
+   "Excel tips",
+   "SPC",
+   "Quality Engineering",
+   "Manufacturing",
+   "Six Sigma",
+   "Machinist",
+   "Excel Formulas",
+   "Excel Hacks"
+  ],
+  "video_url": "https://arthur-industrial-systems.github.io/rs1-social/videos/191.mp4",
+  "publish_at": "2026-12-06T14:00:00-05:00",
+  "video_id": null,
+  "status": "planned"
+ },
+ {
+  "tip": 181,
+  "title": "Chance a lot passes inspection | Excel Tips",
+  "description": "Your plan is n 80, accept on 2. What are the odds a 2 percent lot gets through?\n\nStep by step, the way you'd do it in Excel. A new Excel tip for quality engineers every day.\n\nWant this done in one click? RS-1 is SPC software from Arthur Industrial Systems with a free 14-day trial: https://arthur-industrial-systems.dev\n\n#Excel #ExcelTips #SPC #QualityEngineering #Manufacturing",
+  "tags": [
+   "Excel",
+   "Excel tips",
+   "SPC",
+   "Quality Engineering",
+   "Manufacturing",
+   "Six Sigma",
+   "Machinist",
+   "Acceptance Sampling",
+   "AQL"
+  ],
+  "video_url": "https://arthur-industrial-systems.github.io/rs1-social/videos/181.mp4",
+  "publish_at": "2026-12-06T19:00:00-05:00",
+  "video_id": null,
+  "status": "planned"
+ },
+ {
+  "tip": 125,
+  "title": "Correlation in one formula | Excel Tips",
+  "description": "Does hardness really track temperature? CORREL gives you r.\n\nStep by step, the way you'd do it in Excel. A new Excel tip for quality engineers every day.\n\nWant this done in one click? RS-1 is SPC software from Arthur Industrial Systems with a free 14-day trial: https://arthur-industrial-systems.dev\n\n#Excel #ExcelTips #SPC #QualityEngineering #Manufacturing",
+  "tags": [
+   "Excel",
+   "Excel tips",
+   "SPC",
+   "Quality Engineering",
+   "Manufacturing",
+   "Six Sigma",
+   "Machinist",
+   "Regression",
+   "Correlation"
+  ],
+  "video_url": "https://arthur-industrial-systems.github.io/rs1-social/videos/125.mp4",
+  "publish_at": "2026-12-07T14:00:00-05:00",
+  "video_id": null,
+  "status": "planned"
+ },
+ {
+  "tip": 151,
+  "title": "MTTF from failure times | Excel Tips",
+  "description": "Mean time to failure is just the average of the failure times, if every unit failed.\n\nStep by step, the way you'd do it in Excel. A new Excel tip for quality engineers every day.\n\nWant this done in one click? RS-1 is SPC software from Arthur Industrial Systems with a free 14-day trial: https://arthur-industrial-systems.dev\n\n#Excel #ExcelTips #SPC #QualityEngineering #Manufacturing",
+  "tags": [
+   "Excel",
+   "Excel tips",
+   "SPC",
+   "Quality Engineering",
+   "Manufacturing",
+   "Six Sigma",
+   "Machinist",
+   "Reliability",
+   "MTBF"
+  ],
+  "video_url": "https://arthur-industrial-systems.github.io/rs1-social/videos/151.mp4",
+  "publish_at": "2026-12-07T19:00:00-05:00",
+  "video_id": null,
+  "status": "planned"
+ },
+ {
+  "tip": 7,
+  "title": "Cpk with only an upper limit | Excel Tips",
+  "description": "Flatness, roughness, runout: some specs only have a maximum. Here's Cpk for those.\n\nStep by step, the way you'd do it in Excel. A new Excel tip for quality engineers every day.\n\nWant this done in one click? RS-1 is SPC software from Arthur Industrial Systems with a free 14-day trial: https://arthur-industrial-systems.dev\n\n#Excel #ExcelTips #SPC #QualityEngineering #Manufacturing",
+  "tags": [
+   "Excel",
+   "Excel tips",
+   "SPC",
+   "Quality Engineering",
+   "Manufacturing",
+   "Six Sigma",
+   "Machinist",
+   "Cpk",
+   "Process Capability"
+  ],
+  "video_url": "https://arthur-industrial-systems.github.io/rs1-social/videos/007.mp4",
+  "publish_at": "2026-12-08T14:00:00-05:00",
+  "video_id": null,
+  "status": "planned"
+ },
+ {
+  "tip": 29,
+  "title": "Flag points outside the control limits | Excel Tips",
+  "description": "Let a formula point out every out-of-control part.\n\nStep by step, the way you'd do it in Excel. A new Excel tip for quality engineers every day.\n\nWant this done in one click? RS-1 is SPC software from Arthur Industrial Systems with a free 14-day trial: https://arthur-industrial-systems.dev\n\n#Excel #ExcelTips #SPC #QualityEngineering #Manufacturing",
+  "tags": [
+   "Excel",
+   "Excel tips",
+   "SPC",
+   "Quality Engineering",
+   "Manufacturing",
+   "Six Sigma",
+   "Machinist",
+   "Control Charts",
+   "Statistical Process Control"
+  ],
+  "video_url": "https://arthur-industrial-systems.github.io/rs1-social/videos/029.mp4",
+  "publish_at": "2026-12-08T19:00:00-05:00",
+  "video_id": null,
+  "status": "planned"
+ },
+ {
+  "tip": 192,
+  "title": "Hide errors with IFERROR | Excel Tips",
+  "description": "No production that day? Don't let a divide-by-zero wreck your sheet.\n\nStep by step, the way you'd do it in Excel. A new Excel tip for quality engineers every day.\n\nWant this done in one click? RS-1 is SPC software from Arthur Industrial Systems with a free 14-day trial: https://arthur-industrial-systems.dev\n\n#Excel #ExcelTips #SPC #QualityEngineering #Manufacturing",
+  "tags": [
+   "Excel",
+   "Excel tips",
+   "SPC",
+   "Quality Engineering",
+   "Manufacturing",
+   "Six Sigma",
+   "Machinist",
+   "Excel Formulas",
+   "Excel Hacks"
+  ],
+  "video_url": "https://arthur-industrial-systems.github.io/rs1-social/videos/192.mp4",
+  "publish_at": "2026-12-09T14:00:00-05:00",
+  "video_id": null,
+  "status": "planned"
+ },
+ {
+  "tip": 58,
+  "title": "Range: the quickest measure of spread | Excel Tips",
+  "description": "Max minus min. The simplest spread number there is.\n\nStep by step, the way you'd do it in Excel. A new Excel tip for quality engineers every day.\n\nWant this done in one click? RS-1 is SPC software from Arthur Industrial Systems with a free 14-day trial: https://arthur-industrial-systems.dev\n\n#Excel #ExcelTips #SPC #QualityEngineering #Manufacturing",
+  "tags": [
+   "Excel",
+   "Excel tips",
+   "SPC",
+   "Quality Engineering",
+   "Manufacturing",
+   "Six Sigma",
+   "Machinist",
+   "Statistics",
+   "Data Analysis"
+  ],
+  "video_url": "https://arthur-industrial-systems.github.io/rs1-social/videos/058.mp4",
+  "publish_at": "2026-12-09T19:00:00-05:00",
+  "video_id": null,
+  "status": "planned"
+ },
+ {
+  "tip": 140,
+  "title": "Gage R&R step 2: repeatability (EV) | Excel Tips",
+  "description": "Repeatability is the variation when the same person measures the same part again.\n\nStep by step, the way you'd do it in Excel. A new Excel tip for quality engineers every day.\n\nWant this done in one click? RS-1 is SPC software from Arthur Industrial Systems with a free 14-day trial: https://arthur-industrial-systems.dev\n\n#Excel #ExcelTips #SPC #QualityEngineering #Manufacturing",
+  "tags": [
+   "Excel",
+   "Excel tips",
+   "SPC",
+   "Quality Engineering",
+   "Manufacturing",
+   "Six Sigma",
+   "Machinist",
+   "Gage R&R",
+   "MSA"
+  ],
+  "video_url": "https://arthur-industrial-systems.github.io/rs1-social/videos/140.mp4",
+  "publish_at": "2026-12-10T14:00:00-05:00",
+  "video_id": null,
+  "status": "planned"
+ },
+ {
+  "tip": 30,
+  "title": "Xbar and R for every subgroup | Excel Tips",
+  "description": "First step of an Xbar-R chart: an average and a range for each subgroup.\n\nStep by step, the way you'd do it in Excel. A new Excel tip for quality engineers every day.\n\nWant this done in one click? RS-1 is SPC software from Arthur Industrial Systems with a free 14-day trial: https://arthur-industrial-systems.dev\n\n#Excel #ExcelTips #SPC #QualityEngineering #Manufacturing",
+  "tags": [
+   "Excel",
+   "Excel tips",
+   "SPC",
+   "Quality Engineering",
+   "Manufacturing",
+   "Six Sigma",
+   "Machinist",
+   "Control Charts",
+   "Statistical Process Control"
+  ],
+  "video_url": "https://arthur-industrial-systems.github.io/rs1-social/videos/030.mp4",
+  "publish_at": "2026-12-10T19:00:00-05:00",
+  "video_id": null,
+  "status": "planned"
+ },
+ {
+  "tip": 8,
+  "title": "Calculate Cpm (Taguchi) in Excel | Excel Tips",
+  "description": "Cpm penalizes you for being off target, not just out of spec.\n\nStep by step, the way you'd do it in Excel. A new Excel tip for quality engineers every day.\n\nWant this done in one click? RS-1 is SPC software from Arthur Industrial Systems with a free 14-day trial: https://arthur-industrial-systems.dev\n\n#Excel #ExcelTips #SPC #QualityEngineering #Manufacturing",
+  "tags": [
+   "Excel",
+   "Excel tips",
+   "SPC",
+   "Quality Engineering",
+   "Manufacturing",
+   "Six Sigma",
+   "Machinist",
+   "Cpk",
+   "Process Capability"
+  ],
+  "video_url": "https://arthur-industrial-systems.github.io/rs1-social/videos/008.mp4",
+  "publish_at": "2026-12-11T14:00:00-05:00",
+  "video_id": null,
+  "status": "planned"
+ },
+ {
+  "tip": 166,
+  "title": "Rolled throughput yield | Excel Tips",
+  "description": "Four steps that each look fine can add up to a lot of loss.\n\nStep by step, the way you'd do it in Excel. A new Excel tip for quality engineers every day.\n\nWant this done in one click? RS-1 is SPC software from Arthur Industrial Systems with a free 14-day trial: https://arthur-industrial-systems.dev\n\n#Excel #ExcelTips #SPC #QualityEngineering #Manufacturing",
+  "tags": [
+   "Excel",
+   "Excel tips",
+   "SPC",
+   "Quality Engineering",
+   "Manufacturing",
+   "Six Sigma",
+   "Machinist",
+   "Yield",
+   "Lean Manufacturing"
+  ],
+  "video_url": "https://arthur-industrial-systems.github.io/rs1-social/videos/166.mp4",
+  "publish_at": "2026-12-11T19:00:00-05:00",
+  "video_id": null,
+  "status": "planned"
+ },
+ {
+  "tip": 83,
+  "title": "Chance a part is above a value | Excel Tips",
+  "description": "For the upper side, subtract from one.\n\nStep by step, the way you'd do it in Excel. A new Excel tip for quality engineers every day.\n\nWant this done in one click? RS-1 is SPC software from Arthur Industrial Systems with a free 14-day trial: https://arthur-industrial-systems.dev\n\n#Excel #ExcelTips #SPC #QualityEngineering #Manufacturing",
+  "tags": [
+   "Excel",
+   "Excel tips",
+   "SPC",
+   "Quality Engineering",
+   "Manufacturing",
+   "Six Sigma",
+   "Machinist",
+   "Statistics",
+   "Normal Distribution"
+  ],
+  "video_url": "https://arthur-industrial-systems.github.io/rs1-social/videos/083.mp4",
+  "publish_at": "2026-12-12T14:00:00-05:00",
+  "video_id": null,
+  "status": "planned"
+ },
+ {
+  "tip": 103,
+  "title": "Paired t-test: before and after | Excel Tips",
+  "description": "Same parts measured twice? Use a paired test.\n\nStep by step, the way you'd do it in Excel. A new Excel tip for quality engineers every day.\n\nWant this done in one click? RS-1 is SPC software from Arthur Industrial Systems with a free 14-day trial: https://arthur-industrial-systems.dev\n\n#Excel #ExcelTips #SPC #QualityEngineering #Manufacturing",
+  "tags": [
+   "Excel",
+   "Excel tips",
+   "SPC",
+   "Quality Engineering",
+   "Manufacturing",
+   "Six Sigma",
+   "Machinist",
+   "Hypothesis Testing",
+   "T-test"
+  ],
+  "video_url": "https://arthur-industrial-systems.github.io/rs1-social/videos/103.mp4",
+  "publish_at": "2026-12-12T19:00:00-05:00",
+  "video_id": null,
+  "status": "planned"
+ },
+ {
+  "tip": 193,
+  "title": "Convert inches to millimeters | Excel Tips",
+  "description": "Drawing in inches, gauge in millimeters?\n\nStep by step, the way you'd do it in Excel. A new Excel tip for quality engineers every day.\n\nWant this done in one click? RS-1 is SPC software from Arthur Industrial Systems with a free 14-day trial: https://arthur-industrial-systems.dev\n\n#Excel #ExcelTips #SPC #QualityEngineering #Manufacturing",
+  "tags": [
+   "Excel",
+   "Excel tips",
+   "SPC",
+   "Quality Engineering",
+   "Manufacturing",
+   "Six Sigma",
+   "Machinist",
+   "Excel Formulas",
+   "Excel Hacks"
+  ],
+  "video_url": "https://arthur-industrial-systems.github.io/rs1-social/videos/193.mp4",
+  "publish_at": "2026-12-13T14:00:00-05:00",
+  "video_id": null,
+  "status": "planned"
+ },
+ {
+  "tip": 182,
+  "title": "Build an OC curve table | Excel Tips",
+  "description": "An OC curve shows how your sampling plan treats good and bad lots.\n\nStep by step, the way you'd do it in Excel. A new Excel tip for quality engineers every day.\n\nWant this done in one click? RS-1 is SPC software from Arthur Industrial Systems with a free 14-day trial: https://arthur-industrial-systems.dev\n\n#Excel #ExcelTips #SPC #QualityEngineering #Manufacturing",
+  "tags": [
+   "Excel",
+   "Excel tips",
+   "SPC",
+   "Quality Engineering",
+   "Manufacturing",
+   "Six Sigma",
+   "Machinist",
+   "Acceptance Sampling",
+   "AQL"
+  ],
+  "video_url": "https://arthur-industrial-systems.github.io/rs1-social/videos/182.mp4",
+  "publish_at": "2026-12-13T19:00:00-05:00",
+  "video_id": null,
+  "status": "planned"
+ },
+ {
+  "tip": 126,
+  "title": "Slope and intercept of a best-fit line | Excel Tips",
+  "description": "The equation of the trend line, without a chart.\n\nStep by step, the way you'd do it in Excel. A new Excel tip for quality engineers every day.\n\nWant this done in one click? RS-1 is SPC software from Arthur Industrial Systems with a free 14-day trial: https://arthur-industrial-systems.dev\n\n#Excel #ExcelTips #SPC #QualityEngineering #Manufacturing",
+  "tags": [
+   "Excel",
+   "Excel tips",
+   "SPC",
+   "Quality Engineering",
+   "Manufacturing",
+   "Six Sigma",
+   "Machinist",
+   "Regression",
+   "Correlation"
+  ],
+  "video_url": "https://arthur-industrial-systems.github.io/rs1-social/videos/126.mp4",
+  "publish_at": "2026-12-14T14:00:00-05:00",
+  "video_id": null,
+  "status": "planned"
+ },
+ {
+  "tip": 152,
+  "title": "MTBF from total hours and failures | Excel Tips",
+  "description": "For repairable equipment, MTBF is total operating time over failures.\n\nStep by step, the way you'd do it in Excel. A new Excel tip for quality engineers every day.\n\nWant this done in one click? RS-1 is SPC software from Arthur Industrial Systems with a free 14-day trial: https://arthur-industrial-systems.dev\n\n#Excel #ExcelTips #SPC #QualityEngineering #Manufacturing",
+  "tags": [
+   "Excel",
+   "Excel tips",
+   "SPC",
+   "Quality Engineering",
+   "Manufacturing",
+   "Six Sigma",
+   "Machinist",
+   "Reliability",
+   "MTBF"
+  ],
+  "video_url": "https://arthur-industrial-systems.github.io/rs1-social/videos/152.mp4",
+  "publish_at": "2026-12-14T19:00:00-05:00",
+  "video_id": null,
+  "status": "planned"
+ }
+]
